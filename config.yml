@@ -1,3 +1,4 @@
 BaseDirs:
 - D:\01\win_r\bin
-CurrentDir: D:\01\win_r\bin
+- D:\01\win_r\foo
+CurrentDir: D:\01\win_r\foo
